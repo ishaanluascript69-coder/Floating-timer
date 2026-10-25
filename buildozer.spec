@@ -12,3 +12,8 @@ android.permissions = SYSTEM_ALERT_WINDOW, FOREGROUND_SERVICE
 android.api = 33
 android.minapi = 21
 android.accept_sdk_license = True
+# (str) Android API to use
+android.api = 33
+
+# (int) Minimum API your APK will support
+android.minapi = 21
