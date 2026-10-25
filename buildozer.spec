@@ -12,3 +12,4 @@ android.permissions = SYSTEM_ALERT_WINDOW, FOREGROUND_SERVICE
 android.api = 33
 android.minapi = 21
 android.accept_sdk_license = True
+android.ndk = 25b
